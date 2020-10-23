@@ -1,11 +1,9 @@
-title: Your awesome title
+title: Akib Kamani 
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: Akib Kamani
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hey there 👋I mostly do private research/project 🔭. Someday I'll write about it✨
+
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -19,14 +17,14 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    twitter: akibkamani
+    github:  akibkamani
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
-    # linkedin: jekyll
+    linkedin: akibkamani
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
@@ -66,3 +64,5 @@ plugins:
  - jekyll-seo-tag
  - jekyll-paginate
 
+
+permalink: /:categories/:title:output_ext
