@@ -58,7 +58,7 @@ minima:
 # Build settings
 theme: minima
 
-google_analytics: UA-NNNNNNNN-N
+google_analytics: UA-125042999-11
 
 
 plugins:
