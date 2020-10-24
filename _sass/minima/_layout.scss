@@ -227,6 +227,22 @@
   color: $brand-color;
 }
 
+.buttonc {
+  font-size: $small-font-size;
+  background-color: rgb(248, 248, 248);
+  border: solid 1px rgb(216, 216, 216);
+  color: black;
+  border-radius: 4px;
+  padding: 4px;
+  text-align: center;
+  text-decoration: none !important;
+  display: inline-block;
+  cursor: pointer;
+}
+.buttonc:hover{
+  text-decoration: none;;
+}
+
 .post-link {
   display: block;
   @include relative-font-size(1.5);
