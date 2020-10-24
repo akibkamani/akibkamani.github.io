@@ -2,8 +2,7 @@ title: Akib Kamani
 author:
   name: Akib Kamani
 description: > # this means to ignore newlines until "show_excerpts:"
-  Hey there 👋I mostly do private research/project 🔭. Someday I'll write about it✨
-
+  Hi, I'm a Python Developer :snake: :man_technologist:.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -64,6 +63,7 @@ plugins:
  - jekyll-seo-tag
  - jekyll-paginate
  - jekyll-archives
+ - jemoji
 
 
 permalink: /:title:output_ext
@@ -84,3 +84,6 @@ jekyll-archives:
     tag: '/:name/'
     category: '/:name/'
     author: '/:name/'
+
+emoji:
+  src: "https://github.githubassets.com/images/icons/"

@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## Hi
+# Hey there :wave:
+I mostly do private research/project :telescope:. 
 
-I'm a python Developer.
+Someday I'll write about it :sparkles:
